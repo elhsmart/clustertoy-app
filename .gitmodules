@@ -1,0 +1,6 @@
+[submodule "lib/riak"]
+	path = lib/riak
+	url = git@github.com:elhsmart/riak-php-client.git
+[submodule "lib/pheanstalk"]
+	path = lib/pheanstalk
+	url = git@github.com:elhsmart/pheanstalk.git
